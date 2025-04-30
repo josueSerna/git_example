@@ -1,1 +1,1 @@
-"Este archivo fue modificado en main." 
+Este archivo fue modificado tanto en main como en reload.
